@@ -1,1 +1,1 @@
-sample java code.
+A sample project to explore programming concepts, APIs and frameworks
